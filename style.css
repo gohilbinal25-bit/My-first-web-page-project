@@ -1,0 +1,75 @@
+ Reset basic margin/padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+
+
+body {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #e0d3d3;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header styling */
+header {
+  background-color: #3498db;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 20px;
+}
+
+/* Section styling */
+section {
+  margin: 20px;
+  padding: 15px;
+  background: rgb(243, 165, 201);
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* About section text color */
+.about p {
+  color: #555;
+}
+
+/* Footer styling */
+footer {
+  text-align: center;
+  background: #333;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+
+.dream {
+  box-sizing: border-box;
+  margin: 20px;
+  padding: 15px;
+  background-color: rgb(174, 219, 219);
+  border-radius: 8px;
+  box-shadow: none;
+
+
+}
+h2 {
+  text-align:center; 
+
+}
+
+.inside{ 
+  box-sizing:initial;
+  margin: 20px;
+  padding: 15px;
+  background-color: #333;
+  border: 15px;
+  color:#f4f4f4
+
+}
